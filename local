@@ -1,1 +1,11 @@
 
+# Local Hosts Start
+192.168.1.52 en0.pro pro
+192.168.1.53 en1.pro
+192.168.1.54 en2.pro
+
+192.168.1.40 msi
+192.168.0.120 book
+192.168.0.130 imac
+169.254.110.76 sharing
+# Local Hosts End
